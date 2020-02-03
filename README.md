@@ -1,6 +1,6 @@
 # rwby-imagewall-demo
 A demo of image wall component, featuring RWBY
 
-Sorry could find images with better quality. Pull request welcomed!
+Sorry couldn't find images with better quality. Pull requests welcomed!
 
 Link to imagewall: https://github.com/asvrada/vue-imagewall

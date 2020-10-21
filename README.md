@@ -1,6 +1,24 @@
 # rwby-imagewall-demo
-A demo of image wall component, featuring RWBY
 
-Sorry couldn't find images with better quality. Pull requests welcomed!
+## Project setup
+```
+yarn install
+```
 
-Link to imagewall: https://github.com/asvrada/vue-imagewall
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

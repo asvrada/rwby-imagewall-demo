@@ -1,24 +1,5 @@
 # rwby-imagewall-demo
 
-## Project setup
-```
-yarn install
-```
+[![Build Status](https://travis-ci.com/asvrada/rwby-imagewall-demo.svg?branch=master)](https://travis-ci.com/asvrada/rwby-imagewall-demo)
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+To use this component: https://github.com/asvrada/vue-imagewall

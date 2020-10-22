@@ -6,7 +6,7 @@
 
 <script>
 
-  import VueImageWall from 'vue-imagewall';
+  import VueImageWall from 'vue-image-wall';
 
   export default {
     name: 'App',

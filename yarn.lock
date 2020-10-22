@@ -8092,10 +8092,10 @@ vue-hot-reload-api@^2.3.0:
   resolved "https://registry.yarnpkg.com/vue-hot-reload-api/-/vue-hot-reload-api-2.3.4.tgz#532955cc1eb208a3d990b3a9f9a70574657e08f2"
   integrity sha512-BXq3jwIagosjgNVae6tkHzzIk6a8MHFtzAdwhnV5VlvPTFxDCvIttgSiHWjdGoTJvXtmRu5HacExfdarRcFhog==
 
-vue-imagewall@^0.5.7:
-  version "0.5.7"
-  resolved "https://registry.yarnpkg.com/vue-imagewall/-/vue-imagewall-0.5.7.tgz#441cd45bc00da2d7cd5ac5b88daa25e63a2e61bf"
-  integrity sha512-fHZNicIag2P8SFdoLZlrsU927bURUuOkFafujxB6q4cMgxEeV4Dour9q5CptOX5SASuc3eU4vaUHZ+4+iq6fbQ==
+vue-image-wall@^0.0.1:
+  version "0.0.1"
+  resolved "https://registry.yarnpkg.com/vue-image-wall/-/vue-image-wall-0.0.1.tgz#aaae6f54f4de634eb08e297681339cfccd5b6a8e"
+  integrity sha512-oHJlNWWRgTiCuU8PdkTe6jN1WG1HNPoC9sLXqLpWyOYGxhDTNrrw0ZJF5klgOC7iNNUlN5IV7Rku+eWJTOK92Q==
   dependencies:
     lodash "^4.17.15"
     vue "^2.6.10"

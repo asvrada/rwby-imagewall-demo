@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <vue-image-wall v-bind:link-images="listImages" />
+    <vue-image-wall :link-images="listImages" />
   </div>
 </template>
 
